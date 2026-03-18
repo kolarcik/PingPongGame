@@ -1,0 +1,15 @@
+/Users/ludek.kolarcik/.cortex/worktrees/PingPong Squad/Developer/PingPongApp/bin/Debug/net10.0/PingPongApp
+/Users/ludek.kolarcik/.cortex/worktrees/PingPong Squad/Developer/PingPongApp/bin/Debug/net10.0/PingPongApp.deps.json
+/Users/ludek.kolarcik/.cortex/worktrees/PingPong Squad/Developer/PingPongApp/bin/Debug/net10.0/PingPongApp.runtimeconfig.json
+/Users/ludek.kolarcik/.cortex/worktrees/PingPong Squad/Developer/PingPongApp/bin/Debug/net10.0/PingPongApp.dll
+/Users/ludek.kolarcik/.cortex/worktrees/PingPong Squad/Developer/PingPongApp/bin/Debug/net10.0/PingPongApp.pdb
+/Users/ludek.kolarcik/.cortex/worktrees/PingPong Squad/Developer/PingPongApp/obj/Debug/net10.0/PingPongApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ludek.kolarcik/.cortex/worktrees/PingPong Squad/Developer/PingPongApp/obj/Debug/net10.0/PingPongApp.AssemblyInfoInputs.cache
+/Users/ludek.kolarcik/.cortex/worktrees/PingPong Squad/Developer/PingPongApp/obj/Debug/net10.0/PingPongApp.AssemblyInfo.cs
+/Users/ludek.kolarcik/.cortex/worktrees/PingPong Squad/Developer/PingPongApp/obj/Debug/net10.0/PingPongApp.csproj.CoreCompileInputs.cache
+/Users/ludek.kolarcik/.cortex/worktrees/PingPong Squad/Developer/PingPongApp/obj/Debug/net10.0/PingPongApp.sourcelink.json
+/Users/ludek.kolarcik/.cortex/worktrees/PingPong Squad/Developer/PingPongApp/obj/Debug/net10.0/PingPongApp.dll
+/Users/ludek.kolarcik/.cortex/worktrees/PingPong Squad/Developer/PingPongApp/obj/Debug/net10.0/refint/PingPongApp.dll
+/Users/ludek.kolarcik/.cortex/worktrees/PingPong Squad/Developer/PingPongApp/obj/Debug/net10.0/PingPongApp.pdb
+/Users/ludek.kolarcik/.cortex/worktrees/PingPong Squad/Developer/PingPongApp/obj/Debug/net10.0/PingPongApp.genruntimeconfig.cache
+/Users/ludek.kolarcik/.cortex/worktrees/PingPong Squad/Developer/PingPongApp/obj/Debug/net10.0/ref/PingPongApp.dll
