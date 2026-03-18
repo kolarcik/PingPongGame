@@ -1,9 +1,16 @@
+# Visual Studio / .NET
 bin/
 obj/
 *.user
-*.vs
-.vscode/
-.nuget/
 *.suo
-*.user
-*.cache
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+
+# OS
+.DS_Store
+*.swp
+
