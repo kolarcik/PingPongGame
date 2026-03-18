@@ -1,4 +1,6 @@
-﻿namespace PingPongApp.Tests;
+﻿using Xunit;
+
+namespace PingPongApp.Tests;
 
 public class UnitTest1
 {
